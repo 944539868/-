@@ -1,0 +1,11 @@
+1.dlib-20.0.1文件夹是所用到的dlib库，我用离线下载的方式，可正常运行，其他方法我都跑不了，这个文件一定要有
+
+2.model_train文件夹是训练yolov8模型的代码，包含了测试GUI
+
+3.GUI文件夹是最终的集成系统，里面存放了模型
+
+
+注：想在自己电脑成功运行代码，需要pip对应的包，修改代码中的模型路径
+最终效果，参考视频：
+【基于深度学习的疲劳检测与分心检测效果演示】 https://www.bilibili.com/video/BV1niJs6WEag/?share_source=copy_web&vd_source=01098583ff045038267937d27380ea0a
+
